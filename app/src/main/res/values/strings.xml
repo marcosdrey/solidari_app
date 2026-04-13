@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Solidari</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_placeholder">name@domain.com</string>
+    <string name="password_label">Password</string>
+    <string name="forgot_password">FORGOT THE PASSWORD?</string>
+    <string name="btn_login">Log in</string>
+    <string name="btn_biometric">Log in with biometrics</string>
+    <string name="or_continue_with"> Or proceed with </string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="create_account">Create one easy and fast!</string>
+    <string name="alt_login_google">Log in using Google</string>
+    <string name="alt_login_facebook">Log in using Facebook</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solidari</string>
+    <string name="welcome_back">Bem-vindo de volta!</string>
+    <string name="email_label">Endereço de e-mail</string>
+    <string name="email_placeholder">nome@dominio.com</string>
+    <string name="password_label">Senha</string>
+    <string name="forgot_password">ESQUECEU A SENHA?</string>
+    <string name="btn_login">Entrar</string>
+    <string name="btn_biometric">Entrar com biometria</string>
+    <string name="or_continue_with"> Ou continue com </string>
+    <string name="no_account">Não tem uma conta? </string>
+    <string name="create_account">Crie uma fácil e rápido!</string>
+    <string name="alt_login_google">Logar com Google</string>
+    <string name="alt_login_facebook">Logar com Facebook</string>
+</resources>
