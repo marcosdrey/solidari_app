@@ -9,6 +9,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
 import br.com.fiap.solidarizeapp.screens.LoginScreen
+import br.com.fiap.solidarizeapp.screens.CashbackScreen
 import br.com.fiap.solidarizeapp.ui.theme.SolidarizeAppTheme
 
 
@@ -18,7 +19,11 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             SolidarizeAppTheme {
-                LoginScreen()
+                Surface(
+                    modifier = Modifier.fillMaxSize()
+                ) {
+                    CashbackScreen()
+                }
             }
         }
     }
