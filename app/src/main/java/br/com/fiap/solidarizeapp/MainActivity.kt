@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import br.com.fiap.solidarizeapp.screens.LoginScreen
 import br.com.fiap.solidarizeapp.screens.CashbackScreen
 import br.com.fiap.solidarizeapp.ui.theme.SolidarizeAppTheme
-
+import br.com.fiap.solidarizeapp.screens.HomeScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
